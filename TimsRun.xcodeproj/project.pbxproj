@@ -10,14 +10,6 @@
 		9F78473C2E7C33FC00955400 /* TimsRun.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TimsRun.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		9F78473E2E7C33FC00955400 /* TimsRun */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = TimsRun;
-			sourceTree = "<group>";
-		};
-/* End PBXFileSystemSynchronizedRootGroup section */
-
 /* Begin PBXFrameworksBuildPhase section */
 		9F7847392E7C33FC00955400 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
@@ -32,7 +24,6 @@
 		9F7847332E7C33FC00955400 = {
 			isa = PBXGroup;
 			children = (
-				9F78473E2E7C33FC00955400 /* TimsRun */,
 				9F78473D2E7C33FC00955400 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -59,9 +50,6 @@
 			buildRules = (
 			);
 			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				9F78473E2E7C33FC00955400 /* TimsRun */,
 			);
 			name = TimsRun;
 			packageProductDependencies = (
